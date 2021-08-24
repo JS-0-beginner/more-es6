@@ -23,3 +23,6 @@ WD_day_31_M31
 <!------------------------------------- 
   /////////////// HTML \\\\\\\\\\\\\\\ 
  -------------------------------------->
+
+General Loop Element Pushing 
+Loop Element Pushing with Arrow Function
