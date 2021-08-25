@@ -1,4 +1,4 @@
-// node destructuring.js \\
+// node destructuring-object.js \\
 
 const fish = {
     

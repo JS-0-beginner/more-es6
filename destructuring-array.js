@@ -1,4 +1,4 @@
-// node optional-chaining.js \\
+// node destructuring-array.js \\
 
 //destructuring Array
 const [fullname, age] = ['Avishek Ataur', 23];

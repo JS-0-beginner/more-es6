@@ -1,4 +1,4 @@
-// node inheritance.js \\
+// node class-inheritance.js \\
 console.log('');
 
 //Common Class
