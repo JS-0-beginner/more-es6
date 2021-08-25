@@ -2,7 +2,8 @@
 
 /* 
 const randomOne = Math.random()*100;
-console.log(',',parseInt(randomOne)); */
+console.log(',',parseInt(randomOne)); 
+*/
 
 //Filter Array \\\\\\\\\\\\\\\\\\
 

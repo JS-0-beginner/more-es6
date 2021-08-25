@@ -31,6 +31,7 @@ const company =
 {
     name: 'addidas',
 
+    //An object property’s value can be another object
     product: 
     {
     shoe:'sports', 
@@ -47,7 +48,11 @@ const company =
     },
 
     location: 'USA',
-    hr: 'David Beckham'
+    hr: 'David Beckham',
+
+    //An object property’s value can be another object, another array
+    topSellYears: [2018, 2019, 2020, 2021]
+
 
 }
 
@@ -57,5 +62,7 @@ const {shoe, jersey, deodrant} = company.product;
 
 const {watch, waterbottle} = company.product.other;
 
-console.log(shoe, jersey, deodrant);
+const {topSellYears} = company;
+
+console.log(shoe, jersey, deodrant, topSellYears);
 console.log(watch, waterbottle);

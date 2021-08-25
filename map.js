@@ -19,17 +19,11 @@ const numbers = [2, 4, 6, 8]
 
 // const multiplying = number => number*2;
 
-/* 
-for(const number of numbers) //number can be defined above
-{
-    const result = multiplying(number);
-    output.push(result);
-} 
-*/
+// const output = numbers.map(multiplying); //With array.map( ) - Arrow Function
 
-// const output = numbers.map(multiplying); //With Arrow Function
+// const output = numbers.map(number => number*2); //With array.map( ) - Arrow Function's value/operation
 
-// const output = numbers.map(number => number*2); //With Arrow Function's Operation
+//Both can be used above
 
 
 //With any variable

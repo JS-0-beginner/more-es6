@@ -1,5 +1,5 @@
 // node string-map.js \\
-console.log('');
+console.log('---');
 
 //String Array
 console.log('Heroes Name Length');
@@ -17,7 +17,7 @@ const nameLength = superHeroes.map(hero => hero.length);
 console.log(nameLength);
 
 //Object in Array
-console.log('Powers');
+console.log('Powers---');
 
 const heroes =
 [
@@ -36,8 +36,10 @@ console.log(heroNames);
 console.log(heroPowers);
 
 //Entire Array
-console.log('Heroes');
+console.log('Heroes---');
 heroes.map(hero => console.log(hero));
 
-console.log('For Each');
+console.log('For Each---');
 heroes.forEach(hero => console.log(hero));
+
+
